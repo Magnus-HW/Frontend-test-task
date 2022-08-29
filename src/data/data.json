@@ -1,0 +1,30 @@
+[
+  {
+    "id": 0,
+    "name": "1 HardCodedTitle",
+    "description": "Some random text. Some random text. Some random text.",
+    "imageLink": "https://i.picsum.photos/id/1025/4951/3301.jpg?hmac=_aGh5AtoOChip_iaMo8ZvvytfEojcgqbCH7dzaz-H8Y",
+    "price": 10000   
+  },
+  {
+    "id": 1,
+    "name": "3 HardCodedTitle",
+    "description": "Some random text. Some random text. Some random text.",
+    "imageLink": "https://i.picsum.photos/id/1025/4951/3301.jpg?hmac=_aGh5AtoOChip_iaMo8ZvvytfEojcgqbCH7dzaz-H8Y",
+    "price": 80000   
+  },
+  {
+    "id": 2,
+    "name": "4 HardCodedTitle",
+    "description": "Some random text. Some random text. Some random text. Some random text. Some random text. Some random text.",
+    "imageLink": "https://i.picsum.photos/id/1025/4951/3301.jpg?hmac=_aGh5AtoOChip_iaMo8ZvvytfEojcgqbCH7dzaz-H8Y",
+    "price": 200000   
+  },  
+  {
+    "id": 3,
+    "name": "2 HardCodedTitle",
+    "description": "Some random text. Some random text. Some random text.",
+    "imageLink": "https://i.picsum.photos/id/1025/4951/3301.jpg?hmac=_aGh5AtoOChip_iaMo8ZvvytfEojcgqbCH7dzaz-H8Y",
+    "price": 1000    
+  }
+]

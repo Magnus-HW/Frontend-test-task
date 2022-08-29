@@ -1,0 +1,56 @@
+.product-form__group label,
+.product-form__group input,
+.product-form__group textarea {
+  display: block;
+  font-weight: 400;
+}
+.product-form__group {
+  &:not(:first-child) {
+    margin-top: 1rem;
+  }
+  label {
+    display: inline-block;
+    font-size: 10px;
+    line-height: 13px;
+    letter-spacing: -0.02em;
+  }
+  input,
+  textarea {
+    width: 100%;
+    margin-top: 4px;
+    font-size: 12px;
+    border: none;
+    padding: 1rem;
+    background: #FFFEFB;
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);
+    border-radius: 4px;
+    resize: none;
+    &:focus {
+      outline: none;
+      background-color: #ebe9e5
+    }
+  }
+}
+.product-form__importance {
+  border-radius: 50%;
+  width: 4px;
+  height: 4px;
+  background: #FF8484;
+
+  position: absolute;
+  top: 0;
+  right: -5px;
+}
+.product-form__group__validation-msg {
+  width: 200px;
+  padding: 0.2rem;
+  text-align: left;
+  font-size: 8px;
+  line-height: 10px;
+  letter-spacing: -0.02em;
+  color: rgb(255, 0, 0);
+  display: inline-block;
+  position: absolute;
+  left: 0%;
+  top: 102%;
+}
